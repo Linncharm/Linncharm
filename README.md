@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋,I'm Linn
 
-<!--
-**Linncharm/Linncharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning javascript,vue,electron
+- 👯 I’m looking to collaborate on: English working environment
+- 🤔 I’m looking for help with: The way to fullstack
+- 💬 Ask me about :Any question you want!
+- 📫 How to reach me: `linncharm9@gmail.com`
+- ⚡ Fun fact: Nice to meet u!
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Linncharm&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://profile-counter.glitch.me/Linncharm/count.svg)
+
+## My skill set
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linncharm&layout=compact&theme=tokyonight)
