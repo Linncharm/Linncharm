@@ -1,7 +1,5 @@
 ## Hi there 👋,I'm Linn
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AB2FF&width=435&lines=Welecome+to+my+home+page%E2%98%80%EF%B8%8F;Practice+makes+perfect!)](https://git.io/typing-svg)
-- 🌱 I’m currently learning javascript,vue,electron
-- 👯 I’m looking to collaborate on: English working environment
 - 🤔 I’m looking for help with: The way to fullstack
 - 💬 Ask me about :Any question you want!
 - 📫 How to reach me: [linncharm9@gmail.com](linncharm9@gmail.com)
