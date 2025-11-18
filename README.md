@@ -7,7 +7,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Linncharm&show_icons=true&theme=dracula)
 
-you are my ![Visitor Count](https://profile-counter.glitch.me/Linncharm/count.svg) vistor! :kissing_heart:
 
 ## My skill set
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linncharm&layout=compact&theme=tokyonight)
